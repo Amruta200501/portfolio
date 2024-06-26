@@ -1,7 +1,7 @@
 .heading h3{
     color: #b34ee2;
-    margin-top: 250px;
-    margin-left: 154%;
+    margin-top: 150px;
+    margin-left: 105%;
     width: 100%;
 }
 .contact{
@@ -10,9 +10,9 @@
     margin: auto;   
     display: flex;
     align-items: center;
-    gap: 120px;
-    margin-top: -70px;
-    margin-left: 10%;
+    gap: 140px;
+    margin-top: -80px;
+    margin-left: 1%;
 }
 .textcontainer{
     flex: 1;
