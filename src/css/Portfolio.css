@@ -1,0 +1,51 @@
+.pages{
+    display: flex;
+    width: 98.9vw;
+    height: 160vh;
+    background-color:black;
+}
+.nav-link1{
+    position: relative;
+    font-weight: bolder;
+    font-size: large;
+    color: white;
+    text-decoration: none;
+    padding: 6px 0;
+}
+.nav-brand{
+    font-weight: bolder;
+    font-size: x-large;
+    display: flex;
+    flex-direction: row;
+}
+.img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.portfolio-navbar{
+    background-color:black;
+    position: fixed;
+}
+/* .nav-link1:hover {
+    background-color: transparent;
+     border: 2px solid #b34ee2;
+    border-radius: 5px;
+} */
+   
+.nav-link1.active{
+    color: #b34ee2 !important;
+}
+.nav-link1::before{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 3px;
+    width: 0%;
+    background-color:#b34ee2;
+    transition: all 0.4s ease;
+}
+.nav-link1:hover::before{
+    width: 100%;
+}

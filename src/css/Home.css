@@ -1,0 +1,65 @@
+.Content{
+    margin-top: 18%;
+    margin-left: 150px;
+}
+.Content h1{
+    color: white;
+    font-weight: bold;
+    font-family: 'logline';
+}
+.Content h3{
+    color: #b34ee2;
+    font-weight: bold;
+    font-family: 'logline';
+}
+.HM-btn {
+    width: 150px;
+    height: 50px;
+    border-radius: 30em;
+    border: 3px solid #b34ee2;
+    position: relative;
+    overflow: hidden;
+    letter-spacing: 2px;
+    font-weight:bolder;
+    background-color: transparent;
+    color: white;
+    z-index: 1;
+    margin-top: 80px;
+}
+.HM-btn::before{
+    content: '';
+    width: 0;
+    height:3em;
+    border-radius: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color:#b34ee2;
+    transition: .5s ease;
+    display: block;
+    z-index: -1;
+}
+.HM-btn:hover::before{
+    width: 12em;
+}
+.HM-btn:hover{
+    font-weight:bolder;
+    box-shadow: 0 10px 20px #b34ee2;
+}
+.image{
+    height: 350px;
+    width: 350px;
+    background-image: url('../images/WhatsApp\ Image\ 2024-06-08\ at\ 12.21.18-Photoroom.png');
+    margin-left: 65%;
+    margin-top: -24%;
+    border-radius: 50%;
+    background-size: cover;
+}
+.Content p{
+    width: 50%;
+    height: 20px;
+    text-align: justify;
+    color: white;
+     /* padding: 10px; */
+    font-size: 20px;
+}

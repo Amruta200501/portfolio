@@ -1,0 +1,18 @@
+.education{
+    margin-left: 14%;
+    margin-top: 10%;
+}
+.education-timeline{
+    width: 1100px;
+    height: 200px;
+    position: absolute;
+    left:-55px;
+    /* margin-left: -60px; */
+}
+.education-timeline h3{
+    color: black;
+}
+.education-timeline p{
+    color: black;
+}
+
