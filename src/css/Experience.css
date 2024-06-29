@@ -1,62 +1,3 @@
-/* .exp-content h1{
-    color: #b34ee2;
-    margin-top: 200px;
-    margin-left: 700px;
-} */
-/* .exp-card{
-    height: 50%;
-    width: 150%;
-    margin-left: 90px;
-    margin-top: 60px;
-} */
-/* .exp-card {
-    height: 50%;
-    width: 150%;
-    margin-left: 90px;
-    margin-top: 60px;
-    background:#5927E5;
-    border-radius: 15px;
-    cursor: pointer;
-}
-   */
-/* .exp-card::before,
-.exp-card::after {
-    position: absolute;
-    content: "";
-    width: 20%;
-    height: 20%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 25px;
-    font-weight: bold;
-    background-color: #6935f9;
-    transition: all 0.5s;
-}
-  
-.exp-card::before {
-    top: 0;
-    right: 0;
-    border-radius: 0 15px 0 100%;
-}
-  
-.exp-card::after {
-    bottom: 0;
-    left: 0;
-    border-radius: 0 100%  0 15px;
-}
-  
-.exp-card:hover::before,
-.exp-card:hover:after {
-    width: 100%;
-    height: 100%;
-    border-radius: 15px;
-    transition: all 0.5s;
-} */
-/*   
-.exp-card:hover:after h3{
-    color: black;
-} */
 .flip-card {
     width: 50%;
     height: 30%;
@@ -106,4 +47,9 @@
     transform: rotateY(180deg);
     text-align: justify;
     padding: 20px;
+}
+@media screen and (max-width: 800px){
+    .flip-card{
+        margin-left: 5%;
+    }
 }

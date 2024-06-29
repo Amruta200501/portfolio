@@ -12,7 +12,7 @@ const Skills = () => {
       <div className="progress-bar">
         <FaHtml5 style={{ color: "red" }} />
         <span className="name">HTML</span>
-        <progress value={0.8} style={{ width: "800px", color:'blue' }} /><p className="tag">70%</p>
+        <progress value={0.8} style={{ width: "800px"}} /><p className="tag">70%</p>
 
         <FaCss3 style={{ color: "yellow" }} />
         <span className="name">CSS</span>
@@ -28,7 +28,7 @@ const Skills = () => {
 
         < DiJavascript  style={{ color: "white" }} />
         <span className="name">Javascript</span>
-        <progress value={0.6} style={{ width: "800px" }} /><p>50%</p>
+        <progress value={0.9} style={{ width: "800px" }} /><p>80%</p>
 
         <SiMongodb  style={{ color: "green" }} />
         <span className="name">Mongodb</span>

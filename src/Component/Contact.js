@@ -26,7 +26,14 @@ const Contact = () => {
             <FaLocationDot className="icon" />
             <h3>Address</h3>
             <span>Prem nager,Jalgaon</span>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8788.24832214547!2d75.54017099808402!3d21.011222857012786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd90fc15c2764d9%3A0x7022037c028c739c!2sPrem%20Nagar%2C%20Muktainagar%2C%20Jalgaon%2C%20Maharashtra%20425001!5e0!3m2!1sen!2sin!4v1719394834074!5m2!1sen!2sin" width="300" height="200" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8788.24832214547!2d75.54017099808402!3d21.011222857012786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd90fc15c2764d9%3A0x7022037c028c739c!2sPrem%20Nagar%2C%20Muktainagar%2C%20Jalgaon%2C%20Maharashtra%20425001!5e0!3m2!1sen!2sin!4v1719394834074!5m2!1sen!2sin"
+              width="300"
+              height="200"
+              allowfullscreen=""
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"
+            ></iframe>
           </div>
 
           <div className="item">

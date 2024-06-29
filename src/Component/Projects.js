@@ -1,6 +1,6 @@
 import React from "react";
 import "../css/Projects.css";
-import fimg from "../images/image2.png";
+import fimg from "../images/image1.png";
 import lImg from "../images/image.png";
 import { FaGithub } from "react-icons/fa";
 
@@ -21,6 +21,9 @@ const Projects = () => {
               facility to order food online. With an online restaurant menu
               ordering system, customer can place orders online 24*7.
             </p>
+            <div className="project-icon">
+              <FaGithub className="project-icon1" />
+            </div>
           </div>
         </div>
 
@@ -35,12 +38,19 @@ const Projects = () => {
             </h3>
             <p>
               The Leave Management System is designed to handle various aspects
-              of leave management.
-              Employees can log in to the system to
-              apply for leave, and check the status of their applications.
-              Managers, on the other hand, can easily review and approve or
-              reject leave requests.
+              of leave management. Employees can log in to the system to apply
+              for leave, and check the status of their applications. Managers,
+              on the other hand, can easily review and approve or reject leave
+              requests.
             </p>
+            <div className="project-icon">
+              <a
+                href="https://github.com/Amruta200501/leave_management_clients_app"
+                target="_blank"
+              >
+                <FaGithub className="project-icon1" />
+              </a>
+            </div>
           </div>
         </div>
       </div>

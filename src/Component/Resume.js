@@ -1,5 +1,5 @@
 import React from "react";
-import resumedow from "../images/Amu.pdf";
+import resumedow from "../images/Amruta Resume pdf.pdf";
 import "../css/Resume.css";
 
 const Resume = () => {
@@ -9,18 +9,17 @@ const Resume = () => {
         {/* <h1>Resume</h1> */}
 
         <div className="resume">
-          <h3>For More Information Download My CV</h3>
+          <h3>Download My Resume to Explore My Projects and Skills..!</h3>
         </div>
-
-        <a
-          href={resumedow}
-          download="Amruta Kulkarni"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <button className="downloadButton">📜 Download</button>
-        </a>
       </div>
+      <a
+        href={resumedow}
+        download="Amruta Kulkarni"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <button className="downloadButton">📜 Download</button>
+      </a>
     </div>
   );
 };
