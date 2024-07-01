@@ -86,7 +86,8 @@
     }
     .card:hover .imgbx{
         top: calc(-2% - 100px);
-        margin-left: 50%;  
+        margin-left: 41%; 
+        width: 300px; 
     }
     .card{
         width: 100%;

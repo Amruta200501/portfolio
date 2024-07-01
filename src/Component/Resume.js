@@ -1,5 +1,5 @@
 import React from "react";
-import resumedow from "../images/Amruta Resume pdf.pdf";
+import resumedow from "../images/Amruta Resume.pdf";
 import "../css/Resume.css";
 
 const Resume = () => {
