@@ -21,7 +21,7 @@ const Education = () => {
           >
             <h3>Master Of Computer Applications</h3>
             <p>North Maharashtra University, Jalgaon.</p>
-            <p>CGPA: </p>
+            <p>CGPA: 8.69</p>
           </VerticalTimelineElement>
 
           <VerticalTimelineElement

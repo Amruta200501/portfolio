@@ -49,3 +49,9 @@
 .nav-link1:hover::before{
     width: 100%;
 }
+@media screen and (max-width:800px) {
+    .pages{
+        width: 139vw;
+    }
+
+}

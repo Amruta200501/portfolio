@@ -15,12 +15,14 @@ const Projects = () => {
 
           <div className="content">
             <h3 className="project-heading">Food Court</h3>
+      
             <p>
               The online ordering system gives restaurants the ability to
               increase Sales and expand their business by giving customer the
               facility to order food online. With an online restaurant menu
               ordering system, customer can place orders online 24*7.
             </p>
+         
             <div className="project-icon">
               <FaGithub className="project-icon1" />
             </div>

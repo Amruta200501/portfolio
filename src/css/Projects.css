@@ -40,7 +40,7 @@
   left: -110px;
   top: calc(50% - 100px);
   transition: 0.5s ease-in-out;
-  /* background-color: red; */
+
 }
 .project-heading {
   color: white;
@@ -89,9 +89,16 @@
         margin-left: 50%;  
     }
     .card{
-        width: 50%;
+        width: 100%;
+        margin-left: 5px;
+        margin-top: 50%;
     } 
     .content p{
-        word-wrap: break-word;
+       margin-top: 100px;
+       margin-left: -8px;
     }
+    .project-icon{
+        margin-left: 220px;
+    }
+       
 }

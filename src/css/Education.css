@@ -15,4 +15,12 @@
 .education-timeline p{
     color: black;
 }
-
+@media screen and (max-width: 800px){
+    .education{
+        margin-left: 50px;
+        margin-top: 150px;
+    }
+    .education-timeline{
+        width: 450px;
+    }
+}

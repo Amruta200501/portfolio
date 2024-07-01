@@ -12,7 +12,7 @@ const Home = () => {
             position with Webscape Tech where I can enhance my knowledge of
             principles and grow with the organization.
           </p>
-        <button className="HM-btn">Hire Me</button>
+        {/* <button className="HM-btn">Hire Me</button> */}
         <div className="image"></div>
       </div>
     </div>

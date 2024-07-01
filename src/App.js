@@ -14,7 +14,7 @@ import Education from './Component/Education';
 function App() {
   return (
     <div>
-     {/* <Portfolio/> */}
+     <Portfolio/>
      <section id='home'>
       <Home/>
       

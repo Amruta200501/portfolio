@@ -1,5 +1,5 @@
 .Content{
-    margin-top: 18%;
+    margin-top: 20%;
     margin-left: 150px;
 }
 .Content h1{
@@ -12,7 +12,7 @@
     font-weight: bold;
     font-family: 'logline';
 }
-.HM-btn {
+/* .HM-btn {
     width: 150px;
     height: 50px;
     border-radius: 30em;
@@ -45,13 +45,13 @@
 .HM-btn:hover{
     font-weight:bolder;
     box-shadow: 0 10px 20px #b34ee2;
-}
+} */
 .image{
     height: 350px;
     width: 350px;
     background-image: url('../images/WhatsApp\ Image\ 2024-06-08\ at\ 12.21.18-Photoroom.png');
     margin-left: 65%;
-    margin-top: -24%;
+    margin-top: -15%;
     border-radius: 50%;
     background-size: cover;
 }
@@ -65,18 +65,21 @@
 @media screen and (max-width: 800px){
     .Content h1{
         margin-left: -90px;
+        margin-top: 60px;
     }
     .Content h3{
         margin-left: -90px;
     }
     .Content p{
-        margin-left: -90px; 
+        margin-left: -90px;
+        width: 80%; 
     }
     .HM-btn{
         margin-top: 30%;
     }
     .image{
-        margin-top: 15%;
-        margin-left: -15%;
+        margin-top: 60%;
+        margin-left: -30%;
     }
+    
 }
