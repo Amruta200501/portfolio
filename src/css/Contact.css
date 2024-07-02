@@ -149,19 +149,21 @@
   }
   .icon-div {
     display: flex;
-    width: 50%;
-    margin-left: 230px;
+    width: 60px;
+    height: 60px;
+    margin-left: 220px;
     margin-top: 10px;
   }
 .items {
   background-color: black;
+  padding: 5px;
   margin: 5px;
   height: 30px;
   width: 30px;
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 100%;
+  border-radius: 50%;
   border: 1px solid #b34ee2;
 }
 .items:hover {
@@ -201,8 +203,11 @@
     width: 250%;    
   }
   .icon-div {
-    margin-left: 120px;
+    margin-left: 100px;
   }
- 
+  .items{
+    display: flex;
+    width: 50px;
+  }
   
 }

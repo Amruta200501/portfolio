@@ -4,6 +4,7 @@ import { MdEmail } from "react-icons/md";
 import { FaGithub } from "react-icons/fa";
 import { IoCall } from "react-icons/io5";
 import { SiIndeed } from "react-icons/si";
+import { FaWhatsapp } from "react-icons/fa";
 import "../css/Contact.css";
 import { Card, Form } from "react-bootstrap";
 
@@ -75,6 +76,15 @@ const Contact = () => {
               >
                 <FaGithub className="icon1" />
               </a>
+
+              <a
+                href="https://Wa.me/+918857837529"
+                target="_blank"
+                className="items"
+              >
+                < FaWhatsapp className="icon1" />
+              </a>
+
             </div>
           </Form>
         </div>

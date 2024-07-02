@@ -1,3 +1,6 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 .pages{
     display: flex;
     width: 98.9vw;

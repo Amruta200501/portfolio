@@ -12,11 +12,11 @@ const Skills = () => {
       <div className="progress-bar">
         <FaHtml5 style={{ color: "red" }} />
         <span className="name">HTML</span>
-        <progress value={0.8} style={{ width: "800px"}} /><p className="tag">70%</p>
+        <progress value={0.8} style={{ width: "800px"}}  /><p className="tag">70%</p>
 
         <FaCss3 style={{ color: "yellow" }} />
         <span className="name">CSS</span>
-        <progress value={0.9} style={{ width: "800px" }}/><p>80%</p>
+        <progress value={0.9} style={{ width: "800px" }}/><p>70%</p>
 
         <FaNodeJs style={{ color: "pink" }} />
         <span className="name">Node Js</span>
@@ -24,11 +24,11 @@ const Skills = () => {
 
         <RiReactjsFill style={{ color: "blue" }} />
         <span className="name">React Js</span>
-        <progress value={0.9} style={{ width: "800px" }} /><p>80%</p>
+        <progress value={0.8} style={{ width: "800px" }} /><p>70%</p>
 
         < DiJavascript  style={{ color: "white" }} />
         <span className="name">Javascript</span>
-        <progress value={0.9} style={{ width: "800px" }} /><p>80%</p>
+        <progress value={0.9} style={{ width: "800px" }} /><p>75%</p>
 
         <SiMongodb  style={{ color: "green" }} />
         <span className="name">Mongodb</span>
