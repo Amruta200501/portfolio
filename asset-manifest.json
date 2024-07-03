@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Amruta200501/portfolio/static/css/main.55eb19d5.css",
-    "main.js": "/Amruta200501/portfolio/static/js/main.3cf02cfe.js",
-    "static/js/453.1407b060.chunk.js": "/Amruta200501/portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/image1.png": "/Amruta200501/portfolio/static/media/image1.cd3fa24f3bb8c5342398.png",
-    "static/media/WhatsApp Image 2024-06-08 at 12.21.18-Photoroom.png": "/Amruta200501/portfolio/static/media/WhatsApp Image 2024-06-08 at 12.21.18-Photoroom.7b9495cf533f2cb381b8.png",
-    "static/media/image.png": "/Amruta200501/portfolio/static/media/image.a94c55148342942ce696.png",
-    "static/media/woman logo.jpg": "/Amruta200501/portfolio/static/media/woman logo.32bbd0e4e4f35d1c299b.jpg",
-    "static/media/Amruta Resume.pdf": "/Amruta200501/portfolio/static/media/Amruta Resume.03cec7002f87c586319a.pdf",
-    "static/media/logo.svg": "/Amruta200501/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Amruta200501/portfolio/index.html",
-    "main.55eb19d5.css.map": "/Amruta200501/portfolio/static/css/main.55eb19d5.css.map",
-    "main.3cf02cfe.js.map": "/Amruta200501/portfolio/static/js/main.3cf02cfe.js.map",
-    "453.1407b060.chunk.js.map": "/Amruta200501/portfolio/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.8f7303a5.css",
+    "main.js": "/portfolio/static/js/main.0f2b0425.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/image1.png": "/portfolio/static/media/image1.cd3fa24f3bb8c5342398.png",
+    "static/media/WhatsApp Image 2024-06-08 at 12.21.18-Photoroom.png": "/portfolio/static/media/WhatsApp Image 2024-06-08 at 12.21.18-Photoroom.7b9495cf533f2cb381b8.png",
+    "static/media/image.png": "/portfolio/static/media/image.a94c55148342942ce696.png",
+    "static/media/woman logo.jpg": "/portfolio/static/media/woman logo.32bbd0e4e4f35d1c299b.jpg",
+    "static/media/Amruta Resume.pdf": "/portfolio/static/media/Amruta Resume.03cec7002f87c586319a.pdf",
+    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio/index.html",
+    "main.8f7303a5.css.map": "/portfolio/static/css/main.8f7303a5.css.map",
+    "main.0f2b0425.js.map": "/portfolio/static/js/main.0f2b0425.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55eb19d5.css",
-    "static/js/main.3cf02cfe.js"
+    "static/css/main.8f7303a5.css",
+    "static/js/main.0f2b0425.js"
   ]
 }
