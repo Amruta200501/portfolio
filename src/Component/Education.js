@@ -31,7 +31,7 @@ const Education = () => {
             date="2019-2022"
             style={{ color: "white" }}
           >
-            <h3> Bachelor  Computer Applications</h3>
+            <h3> Bachelor Of Computer Applications</h3>
             <p>North Maharashtra University, Jalgaon.</p>
             <p>CGPA:  9.93</p>
           </VerticalTimelineElement>
